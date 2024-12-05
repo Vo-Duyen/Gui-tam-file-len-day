@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orangeDark">#F43729</color>
+    <color name="orange">#FF5722</color>
+    <color name="greenColor">#4CAF50</color>
+    <color name="redColor">#EF1B0B</color>
+    <color name="textColor">#EFEBEB</color>
+
+    <color name="category1">#2196F3</color>
+    <color name="category2">#00BCD4</color>
+    <color name="category3">#8B6EBC</color>
+    <color name="category4">#A02B53</color>
+    <color name="category5">#D7AE32</color>
+    <color name="category6">#60E966</color>
+
+    <color name="Cash">#60E966</color>
+    <color name="Bank">#45A2ED</color>
+    <color name="MB_Bank">#CFE210</color>
+    <color name="Viettel_Money">#EF0957</color>
+    <color name="Other">#DE8A6F</color>
+
+</resources>
